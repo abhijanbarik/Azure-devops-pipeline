@@ -37,6 +37,7 @@ create table exchange_value
 ```
 
 ## Containerization
+using docker images.
 
 ### Troubleshooting
 
